@@ -1,5 +1,5 @@
 /**
- * Day 1 solution of https://adventofcode.com
+ * Day 1 solution of https://adventofcode.com/2021/day/1
  */
 public class Day1 {
 

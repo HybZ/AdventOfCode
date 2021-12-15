@@ -1,3 +1,6 @@
+/**
+ * Day 2 solution of https://adventofcode.com/2021/day/2
+ */
 public class Day2 {
 
     /**
